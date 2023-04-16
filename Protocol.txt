@@ -1,0 +1,320 @@
+CV
+Idle, TcvI: 38.770000, Tcv: 46.270000, Tset: 40.000000, TcvO: 41.240002, TwwO: 54.139999, pressure: 1.170000, fan_set: 0.000000, fan_cur: 0.000000, OT: 0.000000, gas: 0.000000
+Idle, TcvI: 38.389999, Tcv: 45.330002, Tset: 40.000000, TcvO: 40.680000, TwwO: 54.139999, pressure: 1.170000, fan_set: 0.000000, fan_cur: 0.000000, OT: 0.000000, gas: 0.000000
+Idle, TcvI: 38.020000, Tcv: 44.410000, Tset: 40.000000, TcvO: 40.119999, TwwO: 54.029999, pressure: 1.180000, fan_set: 0.000000, fan_cur: 0.000000, OT: 0.000000, gas: 0.000000
+Central Heating, TcvI: 37.680000, Tcv: 43.540001, Tset: 40.000000, TcvO: 39.610001, TwwO: 53.950001, pressure: 1.300000, fan_set: 2350.000000, fan_cur: 1435.000000, OT: 8.660000, gas: 0.000000
+Central Heating, TcvI: 37.320000, Tcv: 42.790001, Tset: 40.000000, TcvO: 39.119999, TwwO: 53.910000, pressure: 1.310000, fan_set: 2350.000000, fan_cur: 2381.000000, OT: 2.840000, gas: 6.640000
+Central Heating, TcvI: 35.990002, Tcv: 47.279999, Tset: 38.000000, TcvO: 39.709999, TwwO: 53.240002, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1409.000000, OT: 1.960000, gas: 5.370000
+Central Heating, TcvI: 36.029999, Tcv: 48.169998, Tset: 39.000000, TcvO: 40.029999, TwwO: 53.130001, pressure: 1.190000, fan_set: 1551.000000, fan_cur: 1586.000000, OT: 1.900000, gas: 5.900000
+Central Heating, TcvI: 36.049999, Tcv: 48.970001, Tset: 40.000000, TcvO: 40.310001, TwwO: 53.009998, pressure: 1.190000, fan_set: 1703.000122, fan_cur: 1641.000000, OT: 2.720000, gas: 6.020000
+Central Heating, TcvI: 36.110001, Tcv: 49.770000, Tset: 40.000000, TcvO: 40.610001, TwwO: 52.930000, pressure: 1.190000, fan_set: 1629.000122, fan_cur: 1657.000000, OT: 1.960000, gas: 6.240000
+Central Heating, TcvI: 36.110001, Tcv: 50.520000, Tset: 40.000000, TcvO: 40.860001, TwwO: 52.900002, pressure: 1.190000, fan_set: 1564.000000, fan_cur: 1579.000000, OT: 1.920000, gas: 6.220000
+Central Heating, TcvI: 36.139999, Tcv: 51.250000, Tset: 40.000000, TcvO: 41.119999, TwwO: 52.790001, pressure: 1.190000, fan_set: 1494.000000, fan_cur: 1504.000000, OT: 1.870000, gas: 6.120000
+Central Heating, TcvI: 36.240002, Tcv: 51.980000, Tset: 40.000000, TcvO: 41.430000, TwwO: 52.680000, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1419.000000, OT: 1.800000, gas: 6.040000
+Central Heating, TcvI: 36.349998, Tcv: 52.680000, Tset: 40.000000, TcvO: 41.730000, TwwO: 52.560001, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1402.000000, OT: 1.960000, gas: 5.960000
+Central Heating, TcvI: 36.450001, Tcv: 53.360001, Tset: 40.000000, TcvO: 42.029999, TwwO: 52.450001, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1407.000000, OT: 1.960000, gas: 6.020000
+Central Heating, TcvI: 36.570000, Tcv: 53.939999, Tset: 40.000000, TcvO: 42.299999, TwwO: 52.450001, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1409.000000, OT: 1.950000, gas: 6.010000
+Central Heating, TcvI: 36.639999, Tcv: 54.470001, Tset: 40.000000, TcvO: 42.520000, TwwO: 52.400002, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.090000
+Central Heating, TcvI: 36.740002, Tcv: 54.980000, Tset: 40.000000, TcvO: 42.750000, TwwO: 52.340000, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.180000
+Central Heating, TcvI: 36.860001, Tcv: 55.480000, Tset: 40.000000, TcvO: 43.000000, TwwO: 52.230000, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.200000
+Central Heating, TcvI: 36.980000, Tcv: 55.950001, Tset: 40.000000, TcvO: 43.240002, TwwO: 52.099998, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.210000
+Central Heating, TcvI: 37.099998, Tcv: 56.360001, Tset: 40.000000, TcvO: 43.450001, TwwO: 52.049999, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.310000
+Central Heating, TcvI: 37.180000, Tcv: 56.770000, Tset: 40.000000, TcvO: 43.639999, TwwO: 51.990002, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.310000
+Central Heating, TcvI: 37.310001, Tcv: 57.150002, Tset: 40.000000, TcvO: 43.849998, TwwO: 51.880001, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.280000
+Central Heating, TcvI: 37.480000, Tcv: 57.500000, Tset: 40.000000, TcvO: 44.080002, TwwO: 51.880001, pressure: 1.170000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.390000
+Central Heating, TcvI: 37.599998, Tcv: 57.830002, Tset: 40.000000, TcvO: 44.270000, TwwO: 51.770000, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.360000
+Central Heating, TcvI: 37.700001, Tcv: 58.139999, Tset: 40.000000, TcvO: 44.439999, TwwO: 51.770000, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.440000
+Central Heating, TcvI: 37.799999, Tcv: 58.459999, Tset: 40.000000, TcvO: 44.610001, TwwO: 51.650002, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.390000
+Central Heating, TcvI: 37.869999, Tcv: 58.740002, Tset: 40.000000, TcvO: 44.750000, TwwO: 51.610001, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.430000
+Central Heating, TcvI: 38.020000, Tcv: 59.029999, Tset: 40.000000, TcvO: 44.950001, TwwO: 51.540001, pressure: 1.180000, fan_set: 1410.000000, fan_cur: 1410.000000, OT: 1.950000, gas: 6.510000
+Central Heating, TcvI: 38.070000, Tcv: 59.380001, Tset: 40.000000, TcvO: 45.099998, TwwO: 51.430000, pressure: 1.310000, fan_set: 2350.000000, fan_cur: 2294.000000, OT: 3.770000, gas: 0.000000
+Central Heating, TcvI: 38.180000, Tcv: 59.610001, Tset: 40.000000, TcvO: 45.250000, TwwO: 51.320000, pressure: 1.310000, fan_set: 2350.000000, fan_cur: 2396.000000, OT: 2.760000, gas: 0.000000
+Central Heating, TcvI: 38.270000, Tcv: 59.740002, Tset: 40.000000, TcvO: 45.349998, TwwO: 51.250000, pressure: 1.300000, fan_set: 0.000000, fan_cur: 2068.000000, OT: 0.000000, gas: 0.000000
+Central Heating, TcvI: 38.290001, Tcv: 59.509998, Tset: 40.000000, TcvO: 45.290001, TwwO: 51.220001, pressure: 1.180000, fan_set: 0.000000, fan_cur: 1527.000000, OT: 0.000000, gas: 0.000000
+Central Heating, TcvI: 38.400002, Tcv: 58.939999, Tset: 40.000000, TcvO: 45.169998, TwwO: 51.200001, pressure: 1.180000, fan_set: 0.000000, fan_cur: 1149.000000, OT: 0.000000, gas: 0.000000
+Central Heating, TcvI: 38.400002, Tcv: 58.209999, Tset: 40.000000, TcvO: 44.930000, TwwO: 51.139999, pressure: 1.170000, fan_set: 0.000000, fan_cur: 863.000000, OT: 0.000000, gas: 0.000000
+Central Heating, TcvI: 38.400002, Tcv: 57.299999, Tset: 40.000000, TcvO: 44.630001, TwwO: 51.090000, pressure: 1.170000, fan_set: 0.000000, fan_cur: 633.000000, OT: 0.000000, gas: 0.000000
+Idle, TcvI: 38.380001, Tcv: 56.349998, Tset: 40.000000, TcvO: 44.310001, TwwO: 50.980000, pressure: 1.170000, fan_set: 0.000000, fan_cur: 0.000000, OT: 0.000000, gas: 0.000000
+Idle, TcvI: 38.349998, Tcv: 55.320000, Tset: 40.000000, TcvO: 43.950001, TwwO: 50.950001, pressure: 1.170000, fan_set: 0.000000, fan_cur: 0.000000, OT: 0.000000, gas: 0.000000
+
+
+Heet water
+Idle, TcvI: 34.930000, Tcv: 36.380001, Tset: 40.000000, TcvO: 35.400002, TwwO: 31.690001, pressure: 1.170000, fan_set: 0.000000, fan_cur: 0.000000, OT: 0.000000, gas: 0.000000
+Idle, TcvI: 34.930000, Tcv: 36.299999, Tset: 40.000000, TcvO: 35.380001, TwwO: 31.690001, pressure: 1.170000, fan_set: 0.000000, fan_cur: 0.000000, OT: 0.000000, gas: 0.000000
+Hot water, TcvI: 34.900002, Tcv: 36.290001, Tset: 55.000000, TcvO: 35.349998, TwwO: 31.840000, pressure: 1.170000, fan_set: 2350.000000, fan_cur: 0.000000, OT: 7.380000, gas: 0.000000
+Hot water, TcvI: 34.900002, Tcv: 36.180000, Tset: 55.000000, TcvO: 35.320000, TwwO: 33.709999, pressure: 1.050000, fan_set: 4700.000000, fan_cur: 2417.000000, OT: 7.280000, gas: 5.660000
+Hot water, TcvI: 34.900002, Tcv: 36.070000, Tset: 55.000000, TcvO: 35.279999, TwwO: 32.169998, pressure: 1.060000, fan_set: 4700.000000, fan_cur: 4359.000000, OT: 6.740000, gas: 7.460000
+Hot water, TcvI: 34.900002, Tcv: 36.200001, Tset: 55.000000, TcvO: 35.320000, TwwO: 31.520000, pressure: 1.050000, fan_set: 5100.000000, fan_cur: 4892.000000, OT: 7.520000, gas: 7.660000
+Hot water, TcvI: 34.950001, Tcv: 36.950001, Tset: 55.000000, TcvO: 35.610001, TwwO: 32.919998, pressure: 1.060000, fan_set: 5100.000000, fan_cur: 5063.000000, OT: 6.810000, gas: 7.900000
+Hot water, TcvI: 35.160000, Tcv: 38.520000, Tset: 55.000000, TcvO: 36.259998, TwwO: 35.450001, pressure: 1.060000, fan_set: 5100.000000, fan_cur: 5086.000000, OT: 6.800000, gas: 7.960000
+Hot water, TcvI: 35.639999, Tcv: 40.869999, Tset: 55.000000, TcvO: 37.360001, TwwO: 38.509998, pressure: 1.060000, fan_set: 5100.000000, fan_cur: 5095.000000, OT: 6.790000, gas: 8.010000
+Hot water, TcvI: 36.410000, Tcv: 43.919998, Tset: 55.000000, TcvO: 38.880001, TwwO: 41.650002, pressure: 1.050000, fan_set: 5100.000000, fan_cur: 5098.000000, OT: 6.800000, gas: 8.130000
+Hot water, TcvI: 37.439999, Tcv: 47.419998, Tset: 55.000000, TcvO: 40.730000, TwwO: 44.669998, pressure: 1.060000, fan_set: 5039.000000, fan_cur: 5093.000000, OT: 6.370000, gas: 8.200000
+Hot water, TcvI: 38.669998, Tcv: 51.209999, Tset: 55.000000, TcvO: 42.799999, TwwO: 47.400002, pressure: 1.060000, fan_set: 4493.000000, fan_cur: 4635.000000, OT: 4.880000, gas: 8.230000
+Hot water, TcvI: 40.000000, Tcv: 55.080002, Tset: 55.000000, TcvO: 44.970001, TwwO: 49.980000, pressure: 1.050000, fan_set: 3977.000000, fan_cur: 4115.000000, OT: 3.990000, gas: 8.280000
+Hot water, TcvI: 41.480000, Tcv: 59.110001, Tset: 55.000000, TcvO: 47.290001, TwwO: 52.340000, pressure: 1.060000, fan_set: 3523.000000, fan_cur: 3627.000000, OT: 3.440000, gas: 8.350000
+Hot water, TcvI: 42.910000, Tcv: 62.759998, Tset: 55.000000, TcvO: 49.459999, TwwO: 54.139999, pressure: 1.060000, fan_set: 3171.000000, fan_cur: 3245.000000, OT: 3.080000, gas: 8.360000
+Hot water, TcvI: 44.310001, Tcv: 66.050003, Tset: 55.000000, TcvO: 51.480000, TwwO: 55.410000, pressure: 1.060000, fan_set: 2918.000000, fan_cur: 2969.000000, OT: 2.900000, gas: 8.410000
+Hot water, TcvI: 45.639999, Tcv: 69.000000, Tset: 55.000000, TcvO: 53.340000, TwwO: 56.459999, pressure: 1.060000, fan_set: 2663.000000, fan_cur: 2705.000000, OT: 2.630000, gas: 8.400000
+Hot water, TcvI: 46.860001, Tcv: 71.489998, Tset: 55.000000, TcvO: 54.980000, TwwO: 57.250000, pressure: 1.060000, fan_set: 2416.000000, fan_cur: 2450.000000, OT: 2.390000, gas: 8.360000
+Hot water, TcvI: 47.970001, Tcv: 73.510002, Tset: 55.000000, TcvO: 56.389999, TwwO: 57.930000, pressure: 1.060000, fan_set: 2228.000000, fan_cur: 2246.000000, OT: 2.320000, gas: 8.310000
+Hot water, TcvI: 48.930000, Tcv: 75.230003, Tset: 55.000000, TcvO: 57.599998, TwwO: 58.349998, pressure: 1.060000, fan_set: 2049.000000, fan_cur: 2062.000000, OT: 2.180000, gas: 8.210000
+Hot water, TcvI: 49.799999, Tcv: 76.620003, Tset: 55.000000, TcvO: 58.650002, TwwO: 58.700001, pressure: 1.060000, fan_set: 1882.000000, fan_cur: 1887.000122, OT: 2.090000, gas: 8.080000
+Hot water, TcvI: 50.529999, Tcv: 77.699997, Tset: 55.000000, TcvO: 59.490002, TwwO: 58.990002, pressure: 1.060000, fan_set: 1766.000000, fan_cur: 1764.000000, OT: 2.070000, gas: 7.960000
+Hot water, TcvI: 51.180000, Tcv: 78.489998, Tset: 55.000000, TcvO: 60.189999, TwwO: 59.029999, pressure: 1.060000, fan_set: 1700.000000, fan_cur: 1691.000000, OT: 2.110000, gas: 7.820000
+Hot water, TcvI: 51.680000, Tcv: 79.089996, Tset: 55.000000, TcvO: 60.720001, TwwO: 59.020000, pressure: 1.060000, fan_set: 1683.000000, fan_cur: 1678.000122, OT: 2.120000, gas: 7.730000
+Hot water, TcvI: 52.160000, Tcv: 79.489998, Tset: 55.000000, TcvO: 61.169998, TwwO: 58.830002, pressure: 1.060000, fan_set: 1703.000122, fan_cur: 1693.000000, OT: 2.210000, gas: 7.740000
+Hot water, TcvI: 52.480000, Tcv: 79.739998, Tset: 55.000000, TcvO: 61.470001, TwwO: 58.590000, pressure: 1.060000, fan_set: 1734.000000, fan_cur: 1726.000000, OT: 2.250000, gas: 7.810000
+Hot water, TcvI: 52.759998, Tcv: 79.779999, Tset: 55.000000, TcvO: 61.669998, TwwO: 58.299999, pressure: 1.060000, fan_set: 1736.000000, fan_cur: 1727.000000, OT: 2.260000, gas: 7.720000
+Hot water, TcvI: 53.240002, Tcv: 80.169998, Tset: 55.000000, TcvO: 62.119999, TwwO: 57.099998, pressure: 1.060000, fan_set: 1912.000122, fan_cur: 1914.000000, OT: 2.310000, gas: 8.170000
+Hot water, TcvI: 53.240002, Tcv: 80.309998, Tset: 55.000000, TcvO: 62.169998, TwwO: 57.099998, pressure: 1.060000, fan_set: 1903.000122, fan_cur: 1904.000122, OT: 2.310000, gas: 8.160000
+Hot water, TcvI: 53.220001, Tcv: 80.330002, Tset: 55.000000, TcvO: 62.160000, TwwO: 57.080002, pressure: 1.060000, fan_set: 1937.000122, fan_cur: 1934.000000, OT: 2.390000, gas: 8.190000
+Hot water, TcvI: 53.180000, Tcv: 80.470001, Tset: 55.000000, TcvO: 62.180000, TwwO: 57.070000, pressure: 1.060000, fan_set: 1929.999878, fan_cur: 1933.000000, OT: 2.330000, gas: 8.170000
+Hot water, TcvI: 53.130001, Tcv: 80.570000, Tset: 55.000000, TcvO: 62.180000, TwwO: 57.070000, pressure: 1.060000, fan_set: 1920.000122, fan_cur: 1921.999878, OT: 2.320000, gas: 8.200000
+Hot water, TcvI: 53.130001, Tcv: 80.610001, Tset: 55.000000, TcvO: 62.189999, TwwO: 56.970001, pressure: 1.060000, fan_set: 1931.000000, fan_cur: 1932.000000, OT: 2.350000, gas: 8.200000
+Hot water, TcvI: 53.110001, Tcv: 80.650002, Tset: 55.000000, TcvO: 62.189999, TwwO: 56.959999, pressure: 1.060000, fan_set: 1924.000000, fan_cur: 1926.000000, OT: 2.330000, gas: 8.170000
+Hot water, TcvI: 53.009998, Tcv: 80.750000, Tset: 55.000000, TcvO: 62.160000, TwwO: 56.959999, pressure: 1.060000, fan_set: 1915.000000, fan_cur: 1916.000000, OT: 2.320000, gas: 8.230000
+Hot water, TcvI: 52.990002, Tcv: 80.779999, Tset: 55.000000, TcvO: 62.160000, TwwO: 56.980000, pressure: 1.060000, fan_set: 1902.000000, fan_cur: 1904.000122, OT: 2.300000, gas: 8.210000
+Hot water, TcvI: 52.950001, Tcv: 80.889999, Tset: 55.000000, TcvO: 62.169998, TwwO: 56.980000, pressure: 1.060000, fan_set: 1893.000000, fan_cur: 1894.000000, OT: 2.300000, gas: 8.210000
+Hot water, TcvI: 51.970001, Tcv: 79.389999, Tset: 55.000000, TcvO: 61.009998, TwwO: 55.709999, pressure: 1.050000, fan_set: 1808.000000, fan_cur: 1812.999878, OT: 2.250000, gas: 8.050000
+Hot water, TcvI: 51.970001, Tcv: 79.389999, Tset: 55.000000, TcvO: 61.009998, TwwO: 55.650002, pressure: 1.060000, fan_set: 1817.000000, fan_cur: 1816.000000, OT: 2.280000, gas: 8.090000
+Hot water, TcvI: 51.970001, Tcv: 79.389999, Tset: 55.000000, TcvO: 61.009998, TwwO: 55.599998, pressure: 1.060000, fan_set: 1824.000000, fan_cur: 1826.000000, OT: 2.270000, gas: 8.090000
+Central Heating, TcvI: 51.939999, Tcv: 79.389999, Tset: 40.000000, TcvO: 60.990002, TwwO: 55.580002, pressure: 1.060000, fan_set: 2350.000000, fan_cur: 2174.000000, OT: 4.210000, gas: 0.000000
+Central Heating, TcvI: 51.889999, Tcv: 79.389999, Tset: 40.000000, TcvO: 60.959999, TwwO: 55.490002, pressure: 1.310000, fan_set: 2350.000000, fan_cur: 2377.000000, OT: 2.770000, gas: 0.000000
+Central Heating, TcvI: 51.880001, Tcv: 79.389999, Tset: 40.000000, TcvO: 60.950001, TwwO: 55.410000, pressure: 1.300000, fan_set: 0.000000, fan_cur: 2177.000000, OT: 0.000000, gas: 0.000000
+Central Heating, TcvI: 51.709999, Tcv: 79.099998, Tset: 40.000000, TcvO: 60.740002, TwwO: 55.380001, pressure: 1.170000, fan_set: 0.000000, fan_cur: 1599.000000, OT: 0.000000, gas: 0.000000
+
+
+tapflow: 0.000000, unknown: -1.360000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 3.150000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.010000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.520000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.660000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.680000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.660000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.610000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.610000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.610000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.600000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.560000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.590000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.630000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.550000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.440001, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.440001, out_T: 327.670013
+tapflow: 5.470000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 5.350000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 5.220000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 5.060000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.930000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.870000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.820000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.820000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.810000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.780000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.860000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.880000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.910000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+tapflow: 4.910000, unknown: -0.560000, z1_ov: 0.000000, z1_set: 20.500000, z1_T: 19.420000, z2_ov: 0.000000, z2_set: 20.500000, z2_T: 19.420000, out_T: 327.670013
+
+Hot Water, tapflow: 1.73, Tcv: 68.37, Tset: 55.00, TwwO: 60.48, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 67.93, Tset: 55.00, TwwO: 60.33, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 67.54, Tset: 55.00, TwwO: 60.12, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 67.11, Tset: 55.00, TwwO: 59.91, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 66.74, Tset: 55.00, TwwO: 59.67, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 66.39, Tset: 55.00, TwwO: 59.39, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 66.02, Tset: 55.00, TwwO: 59.09, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 65.71, Tset: 55.00, TwwO: 58.82, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.73, Tcv: 65.35, Tset: 55.00, TwwO: 58.61, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 65.00, Tset: 55.00, TwwO: 58.38, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 64.70, Tset: 55.00, TwwO: 58.08, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 64.37, Tset: 55.00, TwwO: 57.89, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 64.09, Tset: 55.00, TwwO: 57.77, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 63.77, Tset: 55.00, TwwO: 57.42, fan_cur: 2348, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 63.43, Tset: 55.00, TwwO: 57.20, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 63.11, Tset: 55.00, TwwO: 57.00, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 62.83, Tset: 55.00, TwwO: 56.79, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.74, Tcv: 62.58, Tset: 55.00, TwwO: 56.61, fan_cur: 2361, gas: 5.61
+Hot Water, tapflow: 1.75, Tcv: 62.32, Tset: 55.00, TwwO: 56.43, fan_cur: 2351, gas: 5.74
+Hot Water, tapflow: 1.76, Tcv: 62.06, Tset: 55.00, TwwO: 56.23, fan_cur: 2351, gas: 6.00
+Hot Water, tapflow: 1.76, Tcv: 61.97, Tset: 55.00, TwwO: 56.18, fan_cur: 2347, gas: 0.00
+Hot Water, tapflow: 1.76, Tcv: 62.10, Tset: 55.00, TwwO: 56.47, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.77, Tcv: 62.45, Tset: 55.00, TwwO: 57.12, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.87, Tset: 55.00, TwwO: 57.85, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.27, Tset: 55.00, TwwO: 58.47, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.55, Tset: 55.00, TwwO: 58.76, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.78, Tset: 55.00, TwwO: 58.99, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.88, Tset: 55.00, TwwO: 58.99, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.92, Tset: 55.00, TwwO: 58.87, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.93, Tset: 55.00, TwwO: 58.70, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.76, Tset: 55.00, TwwO: 58.56, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.61, Tset: 55.00, TwwO: 58.34, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.43, Tset: 55.00, TwwO: 58.06, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.24, Tset: 55.00, TwwO: 57.83, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 63.01, Tset: 55.00, TwwO: 57.58, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.81, Tset: 55.00, TwwO: 57.32, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.55, Tset: 55.00, TwwO: 57.05, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.32, Tset: 55.00, TwwO: 56.81, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.07, Tset: 55.00, TwwO: 56.58, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.80, Tset: 55.00, TwwO: 56.35, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.60, Tset: 55.00, TwwO: 56.12, fan_cur: 2360, gas: 5.43
+Hot Water, tapflow: 1.78, Tcv: 61.38, Tset: 55.00, TwwO: 55.94, fan_cur: 2352, gas: 5.92
+Hot Water, tapflow: 1.78, Tcv: 61.12, Tset: 55.00, TwwO: 55.69, fan_cur: 2351, gas: 5.98
+Hot Water, tapflow: 1.78, Tcv: 61.04, Tset: 55.00, TwwO: 55.62, fan_cur: 2347, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.22, Tset: 55.00, TwwO: 55.99, fan_cur: 2348, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.58, Tset: 55.00, TwwO: 56.64, fan_cur: 2347, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.98, Tset: 55.00, TwwO: 57.36, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.39, Tset: 55.00, TwwO: 57.94, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.68, Tset: 55.00, TwwO: 58.26, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.86, Tset: 55.00, TwwO: 58.39, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.90, Tset: 55.00, TwwO: 58.42, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.90, Tset: 55.00, TwwO: 58.30, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.89, Tset: 55.00, TwwO: 58.14, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.80, Tset: 55.00, TwwO: 57.90, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.71, Tset: 55.00, TwwO: 57.67, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.55, Tset: 55.00, TwwO: 57.40, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.36, Tset: 55.00, TwwO: 57.16, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 62.16, Tset: 55.00, TwwO: 56.92, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.94, Tset: 55.00, TwwO: 56.69, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.69, Tset: 55.00, TwwO: 56.40, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.47, Tset: 55.00, TwwO: 56.12, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 61.20, Tset: 55.00, TwwO: 55.91, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.78, Tcv: 60.97, Tset: 55.00, TwwO: 55.66, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.79, Tcv: 60.74, Tset: 55.00, TwwO: 55.44, fan_cur: 2360, gas: 1.94
+Hot Water, tapflow: 1.81, Tcv: 60.51, Tset: 55.00, TwwO: 55.21, fan_cur: 2352, gas: 5.59
+Hot Water, tapflow: 1.81, Tcv: 60.25, Tset: 55.00, TwwO: 55.20, fan_cur: 2352, gas: 5.85
+Hot Water, tapflow: 1.81, Tcv: 60.12, Tset: 55.00, TwwO: 54.87, fan_cur: 2344, gas: 0.00
+Hot Water, tapflow: 1.81, Tcv: 60.22, Tset: 55.00, TwwO: 55.04, fan_cur: 2348, gas: 0.00
+Hot Water, tapflow: 1.81, Tcv: 60.54, Tset: 55.00, TwwO: 55.65, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.81, Tcv: 61.00, Tset: 55.00, TwwO: 56.45, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.81, Tcv: 61.39, Tset: 55.00, TwwO: 57.04, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.81, Tcv: 61.69, Tset: 55.00, TwwO: 57.48, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.81, Tcv: 61.96, Tset: 55.00, TwwO: 57.66, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.81, Tcv: 62.08, Tset: 55.00, TwwO: 57.64, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.83, Tcv: 62.08, Tset: 55.00, TwwO: 57.57, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.83, Tcv: 62.08, Tset: 55.00, TwwO: 57.38, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.86, Tcv: 61.99, Tset: 55.00, TwwO: 57.16, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.86, Tcv: 61.86, Tset: 55.00, TwwO: 56.92, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.88, Tcv: 61.72, Tset: 55.00, TwwO: 56.65, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.88, Tcv: 61.62, Tset: 55.00, TwwO: 56.30, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.88, Tcv: 61.35, Tset: 55.00, TwwO: 56.10, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.88, Tcv: 61.11, Tset: 55.00, TwwO: 55.81, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.88, Tcv: 60.88, Tset: 55.00, TwwO: 55.54, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.88, Tcv: 60.61, Tset: 55.00, TwwO: 55.29, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.89, Tcv: 60.42, Tset: 55.00, TwwO: 55.07, fan_cur: 2358, gas: 5.37
+Hot Water, tapflow: 1.89, Tcv: 60.18, Tset: 55.00, TwwO: 54.80, fan_cur: 2351, gas: 5.75
+Hot Water, tapflow: 1.89, Tcv: 59.95, Tset: 55.00, TwwO: 54.56, fan_cur: 2351, gas: 5.93
+Hot Water, tapflow: 1.89, Tcv: 59.86, Tset: 55.00, TwwO: 54.53, fan_cur: 2347, gas: 0.00
+Hot Water, tapflow: 1.90, Tcv: 60.06, Tset: 55.00, TwwO: 54.90, fan_cur: 2348, gas: 0.00
+Hot Water, tapflow: 1.90, Tcv: 60.43, Tset: 55.00, TwwO: 55.58, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.90, Tcv: 60.87, Tset: 55.00, TwwO: 56.30, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.90, Tcv: 61.21, Tset: 55.00, TwwO: 56.80, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.90, Tcv: 61.48, Tset: 55.00, TwwO: 57.07, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.91, Tcv: 61.68, Tset: 55.00, TwwO: 57.16, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.95, Tcv: 61.72, Tset: 55.00, TwwO: 57.10, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 1.98, Tcv: 61.72, Tset: 55.00, TwwO: 56.93, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 1.98, Tcv: 61.70, Tset: 55.00, TwwO: 56.70, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 1.99, Tcv: 61.56, Tset: 55.00, TwwO: 56.44, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 2.00, Tcv: 61.38, Tset: 55.00, TwwO: 56.13, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 2.23, Tcv: 61.46, Tset: 55.00, TwwO: 56.30, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 2.28, Tcv: 61.49, Tset: 55.00, TwwO: 56.21, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 2.32, Tcv: 61.45, Tset: 55.00, TwwO: 55.98, fan_cur: 2350, gas: 0.00
+Hot Water, tapflow: 2.33, Tcv: 61.40, Tset: 55.00, TwwO: 55.62, fan_cur: 2351, gas: 0.00
+Hot Water, tapflow: 2.34, Tcv: 61.25, Tset: 55.00, TwwO: 55.24, fan_cur: 2349, gas: 0.00
+Hot Water, tapflow: 2.34, Tcv: 61.06, Tset: 55.00, TwwO: 54.86, fan_cur: 2356, gas: 5.55
+Hot Water, tapflow: 2.36, Tcv: 60.86, Tset: 55.00, TwwO: 54.60, fan_cur: 2351, gas: 5.93
+Hot Water, tapflow: 2.44, Tcv: 60.64, Tset: 55.00, TwwO: 54.17, fan_cur: 2352, gas: 6.09
+======================================================
+Heren, alweer een tijdje geleden, maar er moest natuurlijk proefgedraaid worden.
+
+Ik heb in VB6 een programma geschreven dat via wat aanwijzingen van PE9SMS (mijn dank hiervoor) nu al meer als een week 'draait'
+
+Hieronder voor ieder als hij dat wil kan daar gebruik van maken voor zijn eigen programma. een stukje van de source.
+De 32 Bytes die je ontvangt na het commando S?<enter>
+Chr(83) & Chr(63) & Chr(13)
+
+' ------ VB6 Start ontcijferen van de 32 bytes die ik ontvangen heb -----
+Private Sub Ontcijfer32Bytes()
+' ByteNr(1) tot en met ByteNr(32)
+t1 = Format(GetFloat(ByteNr(2), ByteNr(1)), "####0.0") ' Byte 2 en 1
+t2 = Format(GetFloat(ByteNr(6), ByteNr(5)), "####0.0") ' Byte 6 en 5
+t3 = Format(GetFloat(ByteNr(8), ByteNr(7)), "####0.0") ' Byte 8 en 7
+' t4 = Format(GetFloat(ByteNr(10), ByteNr(9)), "####0.0") ' Byte 10 en 9 klopt niet ? (boiler en buitentemp)
+' t5 = Format(GetFloat(ByteNr(12), ByteNr(11)), "####0.0") ' Byte 12 en 11 klopt niet ? (boiler en buitentemp)
+ch_pressure = GetFloat(ByteNr(14), ByteNr(13)) ' Byte 14 en 13
+temp_flow = Format(GetFloat(ByteNr(4), ByteNr(3)), "####0.0") ' Byte 4 en 3
+t6 = temp_flow
+temp_set = Format(GetFloat(ByteNr(16), ByteNr(15)), "####0.0") ' Byte 16 en 15
+fanspeed_set = GetFloat(ByteNr(18), ByteNr(17)) * 100 ' Byte 18 en 17
+fanspeed = GetFloat(ByteNr(20), ByteNr(19)) * 100 ' Byte 20 en 19
+fan_pwm = Format(GetFloat(ByteNr(22), ByteNr(21)) * 10, "####0.00") ' Byte 22 en 21
+io_curr = Format(GetFloat(ByteNr(24), ByteNr(23)), "####0.00") ' Byte 24 en 23
+
+' Byte 27
+If ByteNr(27) And 1 Then gp_switch = True Else gp_switch = False
+If ByteNr(27) And 2 Then tap_switch = True Else tap_switch = False
+If ByteNr(27) And 4 Then roomtherm = True Else roomtherm = False
+If ByteNr(27) And 8 Then pump = True Else pump = False
+If ByteNr(27) And 16 Then dwk = True Else dwk = False
+If ByteNr(27) And 32 Then alarm_status = True Else alarm_status = False
+If ByteNr(27) And 64 Then ch_cascade_relay = True Else ch_cascade_relay = False
+If ByteNr(27) And 128 Then opentherm = True Else opentherm = False
+
+' Byte 29
+If ByteNr(29) And 1 Then gasvalve = True Else gasvalve = False
+If ByteNr(29) And 2 Then spark = True Else spark = False
+If ByteNr(29) And 4 Then io_signal = True Else io_signal = False
+If ByteNr(29) And 8 Then ch_ot_disabled = True Else ch_ot_disabled = False
+If ByteNr(29) And 16 Then low_water_pressure = True Else low_water_pressure = False
+If ByteNr(29) And 32 Then pressure_sensor = True Else pressure_sensor = False
+If ByteNr(29) And 64 Then burner_block = True Else burner_block = False
+If ByteNr(29) And 128 Then grad_flag = True Else grad_flag = False
+
+' Byte 25
+If pressure_sensor = False Then
+ch_pressure = -35
+displ_code = ByteNr(25) ' Byte 25
+End If
+
+' Byte 28 en Byte 30
+If ByteNr(28) = 128 Then ' Byte 28
+fault_code = ByteNr(30) ' Byte 30
+displ_code = 256 + fault_code
+End If
+
+' Check wat de CVstatus is nav de displaycode. Deze moet nog aangevuld worden met meer codes
+Select Case displ_code
+Case 102
+CVStatus = "CV brandt"
+Case 126
+CVStatus = "CV is in Rust"
+Case 231
+CVStatus = "Nadraaien CV"
+Case 204
+CVStatus = "Tapwater"
+Case 999
+CVStatus = "Status 999" ' Reserve
+Case Else
+CVStatus = "Code " & displ_code ' Onbekende situatie
+End Select
+
+End Sub
+
+Private Function GetFloat(msb As Double, lsb As Double) As Double
+' converteer twee 8-bits integers naar een float, converts two 8-bits numbers to a float
+' If msb > 127 Then
+' GetFloat = -((msb ^ 255) + 1) * 256 - lsb / 100
+' Else
+GetFloat = (msb * 256 + lsb) / 100
+' End If
+End Function
+
+Hoop dat iemand hier iets aan heeft.
+Voor mij is het voldoende om te maken wat ik wil..
+Gegroet aan allen!
+
+PA3HFP, de Leo
+
+
+
+
+
+==========================================

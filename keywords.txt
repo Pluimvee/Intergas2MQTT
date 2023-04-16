@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For Intergase Logger
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Intergas        KEYWORD1
+HomeAutomation  KEYWORD1
+HRE24/18        KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ESP8266   	KEYWORD2
+MQTT       	KEYWORD2
+Proxy	    KEYWORD2
+DS1307      KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
